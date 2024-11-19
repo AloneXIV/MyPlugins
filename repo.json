@@ -10,13 +10,13 @@
 		"TestingDalamudApiLevel": 10,
 		"Tags": [ "cats" ],
 		"SupportsProfiles": true,
-		"IconUrl": "https://raw.githubusercontent.com/Josh-Hdz956/Josh/master/Data/WillowLaptop.jpg",
-		"RepoUrl": "https://github.com/Josh-Hdz956/Josh",
+		"IconUrl": "https://github.com/raw/TestPlugin/raw/master/Data/WillowLaptop.jpg",
+		"RepoUrl": "https://github.com/AloneXIV/TestPlugin",
 		"IsHide": "false",
 		"IsTestingExclusive": "false",
 		"AssemblyVersion": "1.0.0.0",
-		"DownloadLinkInstall": "https://github.com/Josh-Hdz956/Josh/releases/download/1.0.0.0/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/Josh-Hdz956/Josh/releases/download/1.0.0.0/latest.zip",
-		"DownloadLinkTesting": "https://github.com/Josh-Hdz956/Josh/releases/download/1.0.0.0/latest.zip"
+		"DownloadLinkInstall": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip",
+		"DownloadLinkTesting": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip"
 	}
 ]
