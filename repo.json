@@ -4,6 +4,7 @@
 		"Name": "Josh's Three Cute Gatos",
 		"Punchline": "THREE KITTIES!",
 		"Description": "A plugin that has my cats",
+		"InternalName": "Josh's Three Cute Gatos",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 11,
 		"TestingDalamudApiLevel": 10,
@@ -11,7 +12,8 @@
 		"SupportsProfiles": true,
 		"IconUrl": "https://raw.githubusercontent.com/Josh-Hdz956/Josh/master/Data/WillowLaptop.jpg",
 		"RepoUrl": "https://github.com/Josh-Hdz956/Josh",
-		"IsHide": "False",
-		"IsTestingExclusive": "False"
+		"IsHide": "false",
+		"IsTestingExclusive": "false",
+		"AssemblyVersion": "1.0.0.0"
 	}
 ]
