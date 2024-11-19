@@ -14,6 +14,7 @@
 		"RepoUrl": "https://github.com/Josh-Hdz956/Josh",
 		"IsHide": "false",
 		"IsTestingExclusive": "false",
-		"AssemblyVersion": "1.0.0.0"
+		"AssemblyVersion": "1.0.0.0",
+		"DownloadLinkInstall": "https://github.com/Josh-Hdz956/Josh/releases/download/Test/latest.zip"
 	}
 ]
