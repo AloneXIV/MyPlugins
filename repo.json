@@ -10,6 +10,8 @@
 		"Tags": [ "cats" ],
 		"SupportsProfiles": true,
 		"IconUrl": "https://raw.githubusercontent.com/Josh-Hdz956/Josh/master/Data/WillowLaptop.jpg",
-		"RepoUrl": "https://github.com/Josh-Hdz956/Josh"
+		"RepoUrl": "https://github.com/Josh-Hdz956/Josh",
+		"IsHide": "False",
+		"IsTestingExclusive": "False"
 	}
 ]
