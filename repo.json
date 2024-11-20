@@ -18,5 +18,27 @@
 		"DownloadLinkInstall": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip",
 		"DownloadLinkTesting": "https://github.com/AloneXIV/TestPlugin/releases/download/1.0.0.0/latest.zip"
+	},
+
+	{
+		"Author": "Josh",
+		"Name": "Pagos Bunnies",
+		"Punchline": "BUNNIES",
+		"Description": "A plugins that helps automate Pagos Bunnies",
+		"InternalName": "PagosBunnies",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 11,
+		"TestingDalamudApiLevel": 10,
+		"Tags": [ "Eureka" ],
+		"SupportsProfiles": true,
+		"IconUrl": "",
+		"RepoUrl": "https://github.com/AloneXIV/PagosBunnies",
+		"IsHide": "false",
+		"IsTestingExclusive": "false",
+		"AssemblyVersion": "1.0.0.0",
+		"DownloadLinkInstall": "https://github.com/AloneXIV/PagosBunnies/releases/download/1.0.0.0/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/AloneXIV/PagosBunnies/releases/download/1.0.0.0/latest.zip",
+		"DownloadLinkTesting": "https://github.com/AloneXIV/PagosBunnies/releases/download/1.0.0.0/latest.zip"
 	}
+
 ]
