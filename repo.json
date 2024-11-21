@@ -36,9 +36,9 @@
 		"IsHide": "false",
 		"IsTestingExclusive": "false",
 		"AssemblyVersion": "1.0.0.4",
-		"DownloadLinkInstall": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.4/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.4/latest.zip",
-		"DownloadLinkTesting": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.4/latest.zip"
+		"DownloadLinkInstall": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.5/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.5/latest.zip",
+		"DownloadLinkTesting": "https://github.com/AloneXIV/Bunnies/releases/download/1.0.0.5/latest.zip"
 	}
 
 ]
